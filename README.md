@@ -1,0 +1,2 @@
+# Lekan
+Open to learn
