@@ -1,2 +1,2 @@
-# Lekan
+# LINAR CLASSES
 Open to learn
